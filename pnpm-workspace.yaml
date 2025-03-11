@@ -1,3 +1,23 @@
 packages:
-  - "apps/*"
-  - "packages/*"
+ - 'packages/adapters/*'
+ - 'packages/mcwkit'
+ - 'packages/common'
+ - 'packages/ui'
+ - 'packages/core'
+ - 'packages/mcwkit-utils'
+ - 'packages/scaffold-ui'
+ - 'packages/polyfills'
+ - 'packages/wallet'
+ - 'packages/siwe'
+ - 'packages/siwx'
+ - 'packages/wallet-button'
+ - 'packages/cdn'
+ - 'packages/experimental'
+ - 'packages/cli'
+ - 'apps/*'
+ - 'examples/*'
+ - 'packages/ui-new'
+ - '!packages/mcwkit-new'
+ - '!apps/gallery-new'
+ - '!apps/laboratory-new'
+  
